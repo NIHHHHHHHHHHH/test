@@ -1,5 +1,0 @@
-{{#user}}
-Name: NihalGavandi
-Skills: HTML, CSS, JS, React.js
-Email: nihalgavandi11@gmail.com
-{{/user}}
